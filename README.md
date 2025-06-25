@@ -10,6 +10,14 @@
   </a>
 </p>
 
+## Hi there 👋 Iam Yusuf Abdullah
+
+##### FullStackWeb Devoloper
+
+# 💫 About Me:
+Hello, I’m Yusuf, .my core skill is based on javaScript<br>and I love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion<br>for learning & implementing new web technologies and standards. I’m currently studying EEE  International Islamic University Chaittagong. 
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yusufabdullah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufabdullah20000@gmail.com) 
 
