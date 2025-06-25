@@ -1,5 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=58&pause=1000&color=000000&multiline=true&width=435&lines=+Yusuf+Abdullah)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=000000&multiline=true&width=435&lines=FullStack+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=58&pause=1000&color=000000&multiline=true&width=435&lines=+Yusuf+Abdullah" alt="Typing SVG - Name" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=000000&multiline=true&width=435&lines=FullStack+Developer" alt="Typing SVG - Title" />
+  </a>
+</p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yusufabdullah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufabdullah20000@gmail.com) 
 
