@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Yusuf+Abdullah;Full+Stack+Developer;MERN+Stack+Engineer)
+  ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Yusuf+Abdullah;Yusuf+Full+Stack+Engineer)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yusufabdullah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufabdullah20000@gmail.com) 
 
