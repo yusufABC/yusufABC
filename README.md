@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.ibb.co/gbtZ8Mj4/Yusuf-Abdullah-1.png" alt="Banner" />
 </p>
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=000000&multiline=true&width=600&lines=+Yusuf+Abdullah" alt="Typing SVG - Name" />
   </a>
@@ -15,7 +15,7 @@
 
 ## Hi there 👋 Iam Yusuf Abdullah
 
-##### FullStackWeb Devoloper
+##### FullStack Web Devoloper
 
 # 💫 About Me:
 Hello, I’m Yusuf, .my core skill is based on javaScript<br>and I love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion<br>for learning & implementing new web technologies and standards. I’m currently studying EEE  International Islamic University Chaittagong. 
