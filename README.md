@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/XkCLJ26d/Yusuf-Abdullah.png" alt="Banner" />
+  <img src="https://i.ibb.co/gbtZ8Mj4/Yusuf-Abdullah-1.png" alt="Banner" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
