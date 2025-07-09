@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/XkCLJ26d/Yusuf-Abdullah.png"></img>
+<p align="center">
+  <img src="https://i.ibb.co/XkCLJ26d/Yusuf-Abdullah.png" alt="Banner" />
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=000000&multiline=true&width=600&lines=+Yusuf+Abdullah" alt="Typing SVG - Name" />
